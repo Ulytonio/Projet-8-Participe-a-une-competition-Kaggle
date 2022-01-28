@@ -1,1 +1,1 @@
-# Projet-8-Participy-une-comp-tition-Kaggle
+# Projet-8-Participe-a-une-competition-Kaggle
