@@ -1,0 +1,14 @@
+numpy
+pandas
+string
+scipy
+seaborn 
+matplotlib
+sklearn
+sentence_transformers
+tensorflow
+torch
+lightgbm
+bs4
+re
+nltk
